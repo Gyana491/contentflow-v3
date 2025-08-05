@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Gyana491/contentflow-frontend.git
+[submodule "mastra"]
+	path = mastra
+	url = https://github.com/Gyana491/contentflow-mastra.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Gyana491/contentflow-server
